@@ -101,7 +101,7 @@
         {
          "columns":20,
          "firstgid":1,
-         "image":"..\/..\/Downloads\/_Vorschau_carlimg\u00fcrn.png",
+         "image":"..\/..\/tilesets\/_Vorschau_carlimg\u00fcrn.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -3037,7 +3037,7 @@
         {
          "columns":26,
          "firstgid":301,
-         "image":"..\/..\/Downloads\/Tileset_mit_und_ohne_ZON.png",
+         "image":"..\/..\/tilesets\/Tileset_mit_und_ohne_ZON.png",
          "imageheight":970,
          "imagewidth":859,
          "margin":0,
@@ -3731,7 +3731,7 @@
         {
          "columns":20,
          "firstgid":1081,
-         "image":"..\/..\/Downloads\/carlimg\u00fcrn.png",
+         "image":"..\/..\/tilesets\/carlimg\u00fcrn.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -4798,7 +4798,7 @@
         {
          "columns":20,
          "firstgid":1381,
-         "image":"..\/..\/Downloads\/Felsen-unten-rechts.png",
+         "image":"..\/..\/tilesets\/Felsen-unten-rechts.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -4811,7 +4811,7 @@
         {
          "columns":20,
          "firstgid":1681,
-         "image":"..\/..\/Downloads\/Voordergrund.png",
+         "image":"..\/..\/tilesets\/Voordergrund.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -4824,7 +4824,7 @@
         {
          "columns":3,
          "firstgid":1981,
-         "image":"..\/..\/Downloads\/vizworld-main\/Neon-Signx.png",
+         "image":"..\/..\/tilesets\/vizworld-main\/Neon-Signx.png",
          "imageheight":192,
          "imagewidth":96,
          "margin":0,
@@ -4958,7 +4958,7 @@
         {
          "columns":20,
          "firstgid":1999,
-         "image":"..\/..\/Downloads\/_Vorschau_carlimg\u00fcrn.png",
+         "image":"..\/..\/tilesets\/_Vorschau_carlimg\u00fcrn.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
