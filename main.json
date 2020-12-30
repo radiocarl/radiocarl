@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<vizworld>\/map.json#porcarl2}"
+                 "value":"{<vizworld>\/map.json#porcarl2.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
