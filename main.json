@@ -47,9 +47,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"{<lounge>\/main.json#start}",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<lounge>\/main.json#start}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -65,9 +65,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":" {<lobby>\/maps\/software.json#start_vizak}",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<vizworld>\/map.json#porcarl2}"
                 }],
          "type":"tilelayer",
          "visible":true,
