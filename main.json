@@ -59,7 +59,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":" \t{<lobby>\/maps\/software.json#start_vizak}",
+                 "name":" {<lobby>\/maps\/software.json#start_vizak}",
                  "type":"string",
                  "value":""
                 }],
