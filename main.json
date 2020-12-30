@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<vizak>\/map.json#porcarl2}"
+                 "value":"{<vizak>\/main.json#porcarl2}"
                 }],
          "type":"tilelayer",
          "visible":true,
