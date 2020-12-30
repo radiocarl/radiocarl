@@ -28,7 +28,7 @@
          "name":"Landscape",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -134,19 +134,6 @@
          "spacing":0,
          "tilecount":300,
          "tileheight":32,
-         "tiles":[
-                {
-                 "animation":[
-                        {
-                         "duration":400,
-                         "tileid":178
-                        }, 
-                        {
-                         "duration":50,
-                         "tileid":281
-                        }],
-                 "id":178
-                }],
          "tilewidth":32
         }, 
         {
