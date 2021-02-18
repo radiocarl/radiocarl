@@ -101,7 +101,7 @@
         {
          "columns":23,
          "firstgid":1,
-         "image":"tiles\/RedRoom_Floor.png",
+         "image":"tilesets\/RedRoom_Floor.png",
          "imageheight":736,
          "imagewidth":736,
          "margin":0,
@@ -4003,7 +4003,7 @@
         {
          "columns":23,
          "firstgid":530,
-         "image":"tiles\/RedRoom_Objects.png",
+         "image":"tilesets\/RedRoom_Objects.png",
          "imageheight":736,
          "imagewidth":736,
          "margin":0,
