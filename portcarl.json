@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -101,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/nature.json"
+                 "value":"nature.json"
                 }],
          "type":"tilelayer",
          "visible":true,
