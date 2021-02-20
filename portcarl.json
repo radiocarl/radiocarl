@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -83,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/wa.tabascoeye.de"
+                 "value":"https:\/\/party.tabascoeye.de\/_\/global\/data.tabascoeye.de\/maptest\/sunset\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
