@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"porcarl2.json#start"
+                 "value":"portcarl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
