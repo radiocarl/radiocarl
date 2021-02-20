@@ -86,6 +86,12 @@
          "id":12,
          "name":"exit to nature",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"nature.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -100,9 +106,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"carl.json"
+                 "value":"https:\/\/party.tabascoeye.de\/_\/global\/data.tabascoeye.de\/maptest\/sunset\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
