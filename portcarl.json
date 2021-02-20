@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/wa.tabascoeye.de\/_\/global\/raw.githubusercontent.com\/raumzeitlabor\/rc3-map-lounge\/main\/main.json"
+                 "value":"https:\/\/party.tabascoeye.de\/_\/global\/data.tabascoeye.de\/maptest\/sunset\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
