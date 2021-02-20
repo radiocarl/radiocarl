@@ -61,6 +61,12 @@
          "id":9,
          "name":"exit to 404",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/radiocarl.github.io\/radiocarl\/404.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -73,6 +79,12 @@
          "id":10,
          "name":"exit to lounge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/wa.tabascoeye.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -85,6 +97,12 @@
          "id":11,
          "name":"exit to redroom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/radiocarl.github.io\/radiocarl\/redroom.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -101,7 +119,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/nature.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/radiocarl.github.io\/radiocarl\/nature.json"
                 }],
          "type":"tilelayer",
          "visible":true,
