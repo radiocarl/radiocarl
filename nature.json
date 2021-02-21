@@ -1,5 +1,16 @@
 { "compressionlevel":-1,
+<<<<<<< HEAD
  "height":32,
+=======
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
+ "height":27,
+>>>>>>> 0d4cb3525d78097758eb18bc949e013640193d9e
  "infinite":true,
  "layers":[
         {
@@ -15,11 +26,30 @@
          "id":4,
          "name":"start",
          "opacity":1,
+<<<<<<< HEAD
          "startx":16,
          "starty":16,
          "type":"tilelayer",
          "visible":true,
          "width":16,
+=======
+         "startx":0,
+         "starty":0,
+         "type":"tilelayer",
+         "visible":true,
+         "width":16,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+>>>>>>> 0d4cb3525d78097758eb18bc949e013640193d9e
          "x":0,
          "y":0
         }, 
@@ -62,17 +92,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":32,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
