@@ -80,6 +80,12 @@
          "id":20,
          "name":"exit to DiVOC",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/c0c0bird.codeberg.page\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -96,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/c0c0bird.codeberg.page\/main.json#start"
+                 "value":"https:\/\/wa.tabascoeye.de\/_\/global\/raw.githubusercontent.com\/raumzeitlabor\/rc3-map-lounge\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
