@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.5" tiledversion="1.5.0" name="nur_CARL_DiVOC_Animation_Tileset" tilewidth="32" tileheight="32" tilecount="800" columns="80">
+<tileset version="1.5" tiledversion="1.5.0" name="CARL_DiVOC_Animation_Tileset" tilewidth="32" tileheight="32" tilecount="800" columns="80">
  <image source="../../../rc3_CARL/CARL_Versionen/DiVoCARL/nur_CARL_DiVOC_Animation_Tileset.png" width="2560" height="320"/>
  <tile id="0">
   <animation>
