@@ -755,11 +755,11 @@
         {
          "columns":80,
          "firstgid":2161,
-         "image":"..\/..\/rc3_CARL\/CARL_Versionen\/DiVoCARL\/nur_CARL_DiVOC_Animation_Tileset.png",
+         "image":"tilesets\/nur_CARL_DiVOC_Animation_Tileset.png",
          "imageheight":320,
          "imagewidth":2560,
          "margin":0,
-         "name":"CARL_DiVOC_Animation_Tileset",
+         "name":"nur_CARL_DiVOC_Animation_Tileset",
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
