@@ -7903,7 +7903,7 @@
         {
          "columns":120,
          "firstgid":3825,
-         "image":"..\/..\/Assets\/_Neu_sortieren\/GameFXexport\/SPRITESHEET_Files\/PoisonCast_96x96.png",
+         "image":"tilesets\/PoisonCast_96x96.png",
          "imageheight":96,
          "imagewidth":3840,
          "margin":0,
