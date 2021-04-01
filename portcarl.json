@@ -299,7 +299,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"radiocarl\/tilesets\/portcarl_v4.png",
+         "image":"tilesets\/portcarl_v4.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -322,7 +322,7 @@
         {
          "columns":32,
          "firstgid":1025,
-         "image":"radiocarl\/tilesets\/portcarl_DiVoc_Dschungel.png",
+         "image":"tilesets\/portcarl_DiVoc_Dschungel.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -335,7 +335,7 @@
         {
          "columns":28,
          "firstgid":2049,
-         "image":"radiocarl\/tilesets\/portalfog.png",
+         "image":"tilesets\/portalfog.png",
          "imageheight":128,
          "imagewidth":896,
          "margin":0,
@@ -861,7 +861,7 @@
         {
          "columns":80,
          "firstgid":2161,
-         "image":"radiocarl\/tilesets\/nur_CARL_DiVOC_Animation_Tileset.png",
+         "image":"tilesets\/nur_CARL_DiVOC_Animation_Tileset.png",
          "imageheight":320,
          "imagewidth":2560,
          "margin":0,
@@ -4301,7 +4301,7 @@
         {
          "columns":144,
          "firstgid":2961,
-         "image":"radiocarl\/tilesets\/sparkle_anaimation.png",
+         "image":"tilesets\/sparkle_anaimation.png",
          "imageheight":200,
          "imagewidth":4608,
          "margin":0,
@@ -7915,7 +7915,7 @@
         {
          "columns":120,
          "firstgid":3825,
-         "image":"radiocarl\/tilesets\/Cast_96x96.png",
+         "image":"tilesets\/Cast_96x96.png",
          "imageheight":96,
          "imagewidth":3840,
          "margin":0,
@@ -9405,7 +9405,7 @@
         {
          "columns":4,
          "firstgid":4185,
-         "image":"radiocarl\/tilesets\/animated_little_friends.png",
+         "image":"tilesets\/animated_little_friends.png",
          "imageheight":512,
          "imagewidth":128,
          "margin":0,
@@ -9635,7 +9635,7 @@
         {
          "columns":8,
          "firstgid":4249,
-         "image":"radiocarl\/tilesets\/blinknlights.png",
+         "image":"tilesets\/blinknlights.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -9745,7 +9745,7 @@
         {
          "columns":128,
          "firstgid":4257,
-         "image":"radiocarl\/tilesets\/portcarl-back-animation_8.png",
+         "image":"tilesets\/portcarl-back-animation_8.png",
          "imageheight":2048,
          "imagewidth":4096,
          "margin":0,
